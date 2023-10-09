@@ -25,5 +25,9 @@ export const useTaskStore = defineStore("taskStore", {
     deleteTask(id) {
       this.tasks = this.tasks.filter((t) => t.id !== id);
     },
+    toggleTask(id) {
+      const task = this.tasks.find((t) => t.id === id);
+      task.isFav = !task.isFav;
+    },
   },
 });
