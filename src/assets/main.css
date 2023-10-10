@@ -72,12 +72,15 @@ header h1 {
 }
 
 /* filter nav */
-.filter {
+/* reset tasks */
+.filter,
+.reset-tasks {
   width: 640px;
   margin: 10px auto;
   text-align: right;
 }
-.filter button {
+.filter button,
+.reset-tasks button {
   display: inline-block;
   margin-left: 10px;
   background: #fff;
