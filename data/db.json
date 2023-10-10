@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "buy milk",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "make lunch",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "title": "prepare bed",
+      "isFav": true
+    },
+    {
+      "id": "c38a38f0-1caa-412e-aef4-b6e9eeacb1c6",
+      "title": "practice guitar",
+      "isFav": true
+    }
+  ]
+}
