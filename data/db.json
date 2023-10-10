@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "buy milk",
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 2,
       "title": "make lunch",
-      "isFav": true
+      "isFav": false
     }
   ]
 }
